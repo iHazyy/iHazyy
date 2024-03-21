@@ -1,4 +1,4 @@
-<img src="/assets/white_icon_resize.png" align="left" width="200px"/>
+<img src="/assets/white_icon_resize.png" align="left" width="150px"/>
 <h1>iHazyy's Devices & Tech Equipment</h1>
 
 <br clear="left"/>
