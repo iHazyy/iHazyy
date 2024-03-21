@@ -1,6 +1,4 @@
-# iHazyy's Device List
-
-## **Griffin** Gaming PC - Specifications
+# **Griffin** Gaming PC - Specifications
 
 #### Components:
 | Component          | Installed                      |
