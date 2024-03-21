@@ -12,7 +12,10 @@
           Drive 2 → 1 TB SSD
           Drive 3 → 1 TB SSD
           Drive 4 → 1 TB SSD
-
+| Component | Current |
+| --- | --- |
+| Operating System | Test |
+| Motherboard | Test |
 "Helix" Server Specs:
 
         Operating System → Debian 12.5 (Stable)
