@@ -1,6 +1,5 @@
 # iHazyy's Device List
 
-<details>
 <summary>"Griffin" PC</summary>
 
 ### **Griffin** Gaming PC - Specifications
@@ -22,11 +21,11 @@
 | Drive 3  → | 1 TB SSD               |
 | Drive 4  → | 1 TB SSD               |
 
-</details>
+
 
 <br>
 
-<details>
+
 <summary>"Helix" Server</summary>
 
 ### **Helix** Server - Specifications
@@ -48,11 +47,11 @@
 
 ¹Operating System is subject to change frequently.
 
-</details>
+
 
 <br>
 
-<details>
+
 
 <summary>"Griffin Mini" Chromebook</summary>
 
@@ -78,7 +77,7 @@
 
 ¹Operating System is subject to change frequently.
 
-</details>
+
 
 <br>
 
@@ -93,7 +92,7 @@
 | Xbox Series X → | 1 TB Edition  |
 | Xbox One S →    | 1 TB Edition  |
         
-</details>
+
 
 <br>
 
@@ -108,11 +107,11 @@
 | iPhone 14 Pro Max →   | 128 GB, Deep Purple      |
 | Samsung Galaxy A10e → | 32 GB + 32 GB SD, Grey   |
         
-</details>
+
 
 <br>
 
-<details>
+
 <summary>Additional Devices</summary>
 
 ### Additional Devices
@@ -126,4 +125,4 @@
 |  → |  |
 |  → |  |
         
-</details>
+
