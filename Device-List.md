@@ -82,6 +82,7 @@
 
 <details>
 <summary>Game Consoles</summary>
+
 ## Gaming Consoles
 
 Consoles:
@@ -96,6 +97,7 @@ Consoles:
 
 <details>
 <summary>Mobile Devices</summary>
+
 ## Mobile Devices
 
 Devices:
@@ -110,6 +112,7 @@ Devices:
 
 <details>
 <summary>Additional Devices</summary>
+
 ## Additional Devices
 
 Devices:
