@@ -1,7 +1,8 @@
 
 <img align="left" width="120x" height="120px" src="/assets/white_icon.png">
 
-<span style="font-size:0.5em;">iHazyy's Devices & Tech Equipment</span>
+<!-- <span style="font-size:0.5em;">iHazyy's Devices & Tech Equipment</span> -->
+<span style="vertical-align: baseline; position: relative;top: -0.5em;>text in superscript</span>
 
 
 
