@@ -1,6 +1,6 @@
 # List of devices and other equipment I regularly use.
 
-## "**Griffin**" Gaming PC Specs:
+### "**Griffin**" Gaming PC Specs:
 Operating System → Windows 11 Pro
 Motherboard → ASROCK A620M-C
 CPU → AMD Ryzen 5 7600 @ 5.1 GHz
@@ -17,7 +17,7 @@ Drive 4 → 1 TB SSD
 
 
 
-"Helix" Server Specs:
+### "Helix" Server Specs:
 
 Operating System → Debian 12.5 (Stable)
 Motherboard → Sabertooth 990FX (rev 1.0)
