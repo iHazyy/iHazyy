@@ -1,4 +1,4 @@
-# List of devices and other equipment I regularly use.
+# iHazyy's Device List
 
 <details>
 <summary>"Griffin" PC</summary>
