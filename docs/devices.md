@@ -3,7 +3,7 @@
 
 
 
-<span style="vertical-align: baseline; position: relative;top: -0.5em;">iHazyy's Devices & Tech Equipment</span>
+# iHazyy's Devices & Tech Equipment
 
 
 
