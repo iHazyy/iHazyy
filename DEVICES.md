@@ -1,12 +1,8 @@
 List of devices and other equipment I regularly use.
 
 "Griffin" PC Specs:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| OS | Windows 11 Pro  |
-| Motherboard  | ASRock A620M-C  |
-
+<details>
+<summary>"**Griffin**" Gaming PC Specs:</summary>
 Operating System → Windows 11 Pro
 Motherboard → ASROCK A620M-C
 CPU → AMD Ryzen 5 7600 @ 5.1 GHz
@@ -17,6 +13,9 @@ Drive 1 → 1 TB NVMe
 Drive 2 → 1 TB SSD
 Drive 3 → 1 TB SSD
 Drive 4 → 1 TB SSD
+</details>
+
+
 
 
 
