@@ -58,8 +58,8 @@
 | Drive 2  → | 64 GB SSD               |
 
 #### Additional Notes:
-                11.6-inch, 360 Hinge, Touchscreen
-                MrChromebox-4.22.2-5 BIOS (Full ROM)
+  11.6-inch, 360 Hinge, Touchscreen
+  MrChromebox-4.22.2-5 BIOS (Full ROM)
 
 ¹Operating System is subject to change frequently.
 
@@ -72,9 +72,8 @@
 | --------------: | :-----------: |
 | Xbox Series X → | 1 TB Edition  |
 | Xbox One S →    | 1 TB Edition  |
+| ---           → | ---           |
         
-
-
 <br>
 
 ## Mobile Devices
@@ -84,9 +83,8 @@
 | --------------------: | :----------------------: |
 | iPhone 14 Pro Max →   | 128 GB, Deep Purple      |
 | Samsung Galaxy A10e → | 32 GB + 32 GB SD, Grey   |
+| ---                 → | ---                      |
         
-
-
 <br>
 
 ## Additional Devices
@@ -97,7 +95,6 @@
 | Synology DS220j      → | DSM 7.1, 2 TB NAS HDD (7200 RPM)         |
 | Cisco Catalyst 2960  → | x2 1-Gbps, x24 100-Mbps Ethernet Ports   |
 | Canon PIXMA Printer  → | PIXMA TS3522, WiFi Enabled               |
-|  → |  |
-|  → |  |
+| ---                  → | ---                                      |
         
 
