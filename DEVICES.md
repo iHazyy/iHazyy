@@ -3,13 +3,13 @@
 <details>
 <summary>"Griffin" Gaming PC Specs</summary>
 
-| Component | Current |
-| --- | --- |
-| Operating System | Test |
-| Motherboard | Test |
-| CPU   → | AMD Ryzwn5 |
-| GPU → | GPU |
-| RAM → | RAM |
+| Component          | Current |
+| ------------------ | --- |
+| Operating System → | Test |
+| Motherboard →      | Test |
+| CPU →              | AMD Ryzwn5 |
+| GPU →              | GPU |
+| RAM →              | RAM |
 
 Drive Layout:
 | Drive | Drive Info |
