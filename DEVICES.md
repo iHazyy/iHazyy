@@ -7,7 +7,7 @@
 | --- | --- |
 | Operating System | Test |
 | Motherboard | Test |
-| CPU → | AMD Ryzwn5 |
+| CPU   → | AMD Ryzwn5 |
 | GPU → | GPU |
 | RAM → | RAM |
 
