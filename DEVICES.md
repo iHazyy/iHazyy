@@ -6,6 +6,7 @@
 ## **Griffin** Gaming PC
 
 #### Components:
+| Operating System → | Windows 11 Pro              |
 | -----------------: | :-------------------------: |
 | Operating System → | Windows 11 Pro              |
 | Motherboard      → | ASRock A620M-C              |
