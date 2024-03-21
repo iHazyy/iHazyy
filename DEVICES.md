@@ -3,43 +3,28 @@
 <details>
 <summary>"Griffin" Gaming PC Specs</summary>
 
-| Component          | Current |
-| ------------------ | --- |
-| Operating System → | Test |
-| Motherboard →      | Test |
-| CPU →              | AMD Ryzwn5 |
-| GPU →              | GPU |
-| RAM →              | RAM |
+| Component          | Current                     |
+| ------------------ | --------------------------- |
+| Operating System → | Windows 11 Pro              |
+| Motherboard      → | ASRock A620M-C              |
+| CPU              → | AMD Ryzen 5 7600 @ 5.1 GHZ  |
+| GPU              → | AMD RX 7600 (8 GB)          |
+| RAM              → | 16 GB DDR5 @ 6000 MHz       |
 
 Drive Layout:
-| Drive | Drive Info |
-| --- | --- |
-| Drive 1 | drive1 |
-| Drive 2 | drive2 |
-| Drive 3 | drive3 |
-| Drive 4 | drive4 |
+| Drive      | Drive Info       |
+| ---------- | ---------------- |
+| Drive 1  → | 1 TB NVMe        |
+| Drive 2  → | 1 TB SSD         |
+| Drive 3  → | 1 TB SSD         |
+| Drive 4  → | 1 TB SSD         |
 
 </details>
 
 <details>
 <summary>"Helix" Server Specs</summary>
 
-| Component | Current |
-| --- | --- |
-| Operating System | Test |
-| Motherboard | Test |
-| CPU | CPU |
-| GPU | GPU |
-| RAM | RAM |
-| CPU | CPU |
 
-Drive Layout:
-| Drive | Drive Info |
-| --- | --- |
-| Drive 1 | drive1 |
-| Drive 2 | drive2 |
-| Drive 3 | drive3 |
-| Drive 4 | drive4 |
 
 </details>
 
