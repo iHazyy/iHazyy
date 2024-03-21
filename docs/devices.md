@@ -1,8 +1,11 @@
-<img align="left" src="/assets/white_icon.png"><h1 style="text-align: right;">iHazyy's Devices & Tech Equipment</h1>
+<img align="left" width="120px" height="120px" src="/assets/white_icon.png">
+<h1 style="text-align: right;">iHazyy's Devices & Tech Equipment</h1>
 
 
 
----
+<br>
+<br>
+<br>
 <br>
 
 ## "Griffin" Gaming PC → 
