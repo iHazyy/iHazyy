@@ -3,7 +3,7 @@
 <details>
 <summary>"Griffin" PC</summary>
 
-## **Griffin** Gaming PC - Specifications
+### **Griffin** Gaming PC - Specifications
 
 #### Components:
 | Component          | Installed                      |
@@ -29,7 +29,7 @@
 <details>
 <summary>"Helix" Server</summary>
 
-## **Helix** Server - Specifications
+### **Helix** Server - Specifications
 
 #### Components:
 | Component          | Installed                      |
@@ -87,7 +87,7 @@
 
 ### Gaming Consoles
 
-Consoles:
+#### Consoles:
 | Console         | Information   |
 | --------------: | :-----------: |
 | Xbox Series X → | 1 TB Edition  |
@@ -102,7 +102,7 @@ Consoles:
 
 ### Mobile Devices
 
-Devices:
+#### Devices:
 | Mobile Device         | Additional Information   |
 | --------------------: | :----------------------: |
 | iPhone 14 Pro Max →   | 128 GB, Deep Purple      |
@@ -117,7 +117,7 @@ Devices:
 
 ### Additional Devices
 
-Devices:
+#### Devices:
 | Additional Device      | Additional Device Information            |
 | ---------------------: | :--------------------------------------: |
 | Synology DS220j      → | DSM 7.1, 2 TB NAS HDD (7200 RPM)         |
