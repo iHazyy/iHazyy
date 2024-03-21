@@ -49,7 +49,7 @@
   | JetBrains IntelliJ IDEA   → | Mainly Java Development             |
   | JetBrains  PyCharm        → | Python Development                  |
   | JetBrains  WebStorm       → | Mainly JavaScript Development       |
-  | JetBrains Datalore        → | Data Science                        |
+  | JetBrains DataSpell       → | Data Analysis                       |
   | JetBrains DataGrip        → | Data Tool                           |
   | JetBrains Code With Me    → | JB Collaboration Tool               |
   | Ventoy + Rufus            → | For Bootable Media                  |
