@@ -1,4 +1,4 @@
-# **Griffin** Gaming PC - Specifications
+## **Griffin** Gaming PC - Specifications
 
 #### Components:
 | Component          | Installed                      |
