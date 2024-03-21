@@ -1,8 +1,6 @@
 # iHazyy's Device List
 
-<summary>"Griffin" PC</summary>
-
-### **Griffin** Gaming PC - Specifications
+## **Griffin** Gaming PC - Specifications
 
 #### Components:
 | Component          | Installed                      |
@@ -22,13 +20,9 @@
 | Drive 4  → | 1 TB SSD               |
 
 
-
 <br>
 
-
-<summary>"Helix" Server</summary>
-
-### **Helix** Server - Specifications
+## **Helix** Server - Specifications
 
 #### Components:
 | Component          | Installed                      |
@@ -47,15 +41,9 @@
 
 ¹Operating System is subject to change frequently.
 
-
-
 <br>
 
-
-
-<summary>"Griffin Mini" Chromebook</summary>
-
-### **Griffin Mini** Chromebook - Specifications
+## **Griffin Mini** Chromebook - Specifications
 
 #### Components:
 | Component          | Installed                      |
@@ -77,12 +65,7 @@
 
 ¹Operating System is subject to change frequently.
 
-
-
 <br>
-
-<details>
-<summary>Game Consoles</summary>
 
 ### Gaming Consoles
 
@@ -96,9 +79,6 @@
 
 <br>
 
-<details>
-<summary>Mobile Devices</summary>
-
 ### Mobile Devices
 
 #### Devices:
@@ -110,9 +90,6 @@
 
 
 <br>
-
-
-<summary>Additional Devices</summary>
 
 ### Additional Devices
 
