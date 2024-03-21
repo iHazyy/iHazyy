@@ -1,21 +1,21 @@
 # List of devices and other equipment I regularly use.
 
 "Griffin" Gaming PC Specs:
-Operating System → Windows 11 Pro
-Motherboard → ASROCK A620M-C
-CPU → AMD Ryzen 5 7600 @ 5.1 GHz
-GPU → AMD RX 7600 (8 GB)
-RAM → 16 GB DDR5 @ 6000 MHz
-Drives:
-Drive 1 → 1 TB NVMe
-Drive 2 → 1 TB SSD
-Drive 3 → 1 TB SSD
-Drive 4 → 1 TB SSD
+         Operating System → Windows 11 Pro
+        Motherboard → ASROCK A620M-C
+        CPU → AMD Ryzen 5 7600 @ 5.1 GHz
+        GPU → AMD RX 7600 (8 GB)
+        RAM → 16 GB DDR5 @ 6000 MHz
+        Drives:
+          Drive 1 → 1 TB NVMe
+          Drive 2 → 1 TB SSD
+          Drive 3 → 1 TB SSD
+          Drive 4 → 1 TB SSD
 
 "Helix" Server Specs:
 
-Operating System → Debian 12.5 (Stable)
-Motherboard → Sabertooth 990FX (rev 1.0)
+        Operating System → Debian 12.5 (Stable)
+        Motherboard → Sabertooth 990FX (rev 1.0)
 CPU → AMD FX-4350 @ 4.6 GHz
 GPU → AMD RX 580 (4 GB)
 RAM → 32 GB DDR3 @ 1600 MHz
