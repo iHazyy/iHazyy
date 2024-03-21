@@ -1,9 +1,6 @@
-<img src="/assets/white_icon_resize.png" align="left" width="150px"/>
-<h1>iHazyy's Devices & Tech Equipment</h1>
+<img style="float: left;" src="/assets/white_icon.png">
 
-<br clear="left"/>
-
-
+<h1 style="text-align: right;">iHazyy's Devices & Tech Equipment</h1>
 
 ---
 <br>
