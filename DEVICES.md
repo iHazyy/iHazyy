@@ -3,7 +3,7 @@
 <details>
 <summary>"Griffin" PC</summary>
 
-## "**Griffin**" Gaming PC →
+## **Griffin** Gaming PC
 
 #### Components:
 | Component          | Current                     |
