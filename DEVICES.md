@@ -1,11 +1,11 @@
 # List of devices and other equipment I regularly use.
 
 <details>
-<summary>"Griffin"</summary>
+<summary>"Griffin" PC</summary>
 
 ## "**Griffin**" Gaming PC →
 
-
+#### Components:
 | Component          | Current                     |
 | ------------------ | --------------------------- |
 | Operating System → | Windows 11 Pro              |
@@ -14,7 +14,7 @@
 | GPU              → | AMD RX 7600 (8 GB)          |
 | RAM              → | 16 GB DDR5 @ 6000 MHz       |
 
-Drive Layout:
+#### Drive Layout:
 | Drive      | Drive Info       |
 | ---------- | ---------------- |
 | Drive 1  → | 1 TB NVMe        |
