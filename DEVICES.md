@@ -3,16 +3,27 @@
 <details>
 <summary>"Griffin" Gaming PC Specs</summary>
 
-        Operating System → Windows 11 Pro
-        Motherboard → ASROCK A620M-C
-        CPU → AMD Ryzen 5 7600 @ 5.1 GHz
-        GPU → AMD RX 7600 (8 GB)
-        RAM → 16 GB DDR5 @ 6000 MHz
-        Drives:
-          Drive 1 → 1 TB NVMe
-          Drive 2 → 1 TB SSD
-          Drive 3 → 1 TB SSD
-          Drive 4 → 1 TB SSD
+| Component | Current |
+| --- | --- |
+| Operating System | Test |
+| Motherboard | Test |
+| CPU → | AMD Ryzwn5 |
+| GPU → | GPU |
+| RAM → | RAM |
+
+Drive Layout:
+| Drive | Drive Info |
+| --- | --- |
+| Drive 1 | drive1 |
+| Drive 2 | drive2 |
+| Drive 3 | drive3 |
+| Drive 4 | drive4 |
+
+</details>
+
+<details>
+<summary>"Helix" Server Specs</summary>
+
 | Component | Current |
 | --- | --- |
 | Operating System | Test |
@@ -27,20 +38,10 @@ Drive Layout:
 | --- | --- |
 | Drive 1 | drive1 |
 | Drive 2 | drive2 |
+| Drive 3 | drive3 |
+| Drive 4 | drive4 |
 
 </details>
-
-"Helix" Server Specs:
-
-        Operating System → Debian 12.5 (Stable)
-        Motherboard → Sabertooth 990FX (rev 1.0)
-CPU → AMD FX-4350 @ 4.6 GHz
-GPU → AMD RX 580 (4 GB)
-RAM → 32 GB DDR3 @ 1600 MHz
-Drives:
-Drive 1 → 240 GB SSD
-Drive 2 → 4 TB NAS HDD (7200 RPM)
-
 
 "Griffin Mini" (Chromebook) Specs:
 
