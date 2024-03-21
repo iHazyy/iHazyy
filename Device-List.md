@@ -47,6 +47,7 @@
 | Drive 2  → | 4 TB NAS HDD (7200 RPM) |
 
 ¹Operating System is subject to change frequently.
+
 </details>
 
 <br>
@@ -55,7 +56,7 @@
 
 <summary>"Griffin Mini" Chromebook</summary>
 
-## **Griffin Mini** Chromebook - Specifications
+### **Griffin Mini** Chromebook - Specifications
 
 #### Components:
 | Component          | Installed                      |
@@ -71,11 +72,12 @@
 | Drive 1  → | 32 GB NVMe              |
 | Drive 2  → | 64 GB SSD               |
 
-### Additional Notes:
+#### Additional Notes:
                 11.6-inch, 360 Hinge, Touchscreen
-                FULL-ROM flashed fro MrChromebox.tech
+                FULL-ROM flashed from MrChromebox.tech
 
 ¹Operating System is subject to change frequently.
+
 </details>
 
 <br>
@@ -83,7 +85,7 @@
 <details>
 <summary>Game Consoles</summary>
 
-## Gaming Consoles
+### Gaming Consoles
 
 Consoles:
 | Console         | Information   |
@@ -98,7 +100,7 @@ Consoles:
 <details>
 <summary>Mobile Devices</summary>
 
-## Mobile Devices
+### Mobile Devices
 
 Devices:
 | Mobile Device         | Additional Information   |
@@ -113,7 +115,7 @@ Devices:
 <details>
 <summary>Additional Devices</summary>
 
-## Additional Devices
+### Additional Devices
 
 Devices:
 | Additional Device      | Additional Device Information            |
