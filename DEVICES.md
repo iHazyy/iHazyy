@@ -1,7 +1,10 @@
 # List of devices and other equipment I regularly use.
 
 <details>
-<summary>"Griffin" Gaming PC Specs</summary>
+<summary>"Griffin"</summary>
+
+## "**Griffin**" Gaming PC →
+
 
 | Component          | Current                     |
 | ------------------ | --------------------------- |
