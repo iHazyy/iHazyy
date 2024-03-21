@@ -2,7 +2,6 @@
 <h1 style="text-align: right;">iHazyy's Devices & Tech Equipment</h1>
 
 
-
 <br>
 <br>
 <br>
