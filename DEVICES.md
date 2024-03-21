@@ -7,7 +7,7 @@
 
 #### Components:
 | Component          | Current                     |
-| ------------------ | --------------------------- |
+| :----------------: | --------------------------- |
 | Operating System → | Windows 11 Pro              |
 | Motherboard      → | ASRock A620M-C              |
 | CPU              → | AMD Ryzen 5 7600 @ 5.1 GHZ  |
