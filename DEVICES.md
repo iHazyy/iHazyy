@@ -1,6 +1,8 @@
 List of devices and other equipment I regularly use.
 
 "Griffin" PC Specs:
+| OS | Windows 11 Pro  |
+| Motherboard  | ASRock A620M-C  |
 
 Operating System → Windows 11 Pro
 Motherboard → ASROCK A620M-C
