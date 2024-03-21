@@ -1,7 +1,10 @@
+<head>
 <img align="left" width="120x" height="120px" src="/assets/white_icon.png">
-<br /> <br />
-<h1 style="font-size:90px">iHazyy's Devices & Tech Equipment</h1>
 
+<br /> <br />
+
+<h1 style="font-size: 65px">iHazyy's Devices & Tech Equipment</h1>
+</head>
 
 
 <br>
