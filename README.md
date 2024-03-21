@@ -7,7 +7,7 @@
 | **Where do I work?**              | Chief Executive Officer at [@Devneta-LLC]        |
 | ---                           | ---                                              |
 | ---                           | ---                                              |
-| **Where do I go to school? **     | Southern New Hampshire University                |
+| **Where do I go to school?**     | Southern New Hampshire University                |
 | **What do I study?**              | Computer Information Systems & Data Science      |
 
 
