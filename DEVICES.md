@@ -1,6 +1,7 @@
 # List of devices and other equipment I regularly use.
 
-"Griffin" Gaming PC Specs:
+<details>
+<summary>"Griffin" Gaming PC Specs</summary>
 
         Operating System → Windows 11 Pro
         Motherboard → ASROCK A620M-C
@@ -16,6 +17,19 @@
 | --- | --- |
 | Operating System | Test |
 | Motherboard | Test |
+| CPU | CPU |
+| GPU | GPU |
+| RAM | RAM |
+| CPU | CPU |
+
+Drive Layout:
+| Drive | Drive Info |
+| --- | --- |
+| Drive 1 | drive1 |
+| Drive 2 | drive2 |
+
+</details>
+
 "Helix" Server Specs:
 
         Operating System → Debian 12.5 (Stable)
