@@ -1,5 +1,7 @@
-<img align="left" width="120px" height="120px" src="/assets/white_icon.png">
-<h1 style="text-align: right;">iHazyy's Devices & Tech Equipment</h1>
+<img align="left" width="60x" height="60px" src="/assets/white_icon.png">
+<font size="6">
+	<b>iHazyy's Devices & Tech Equipment</b>
+</font>
 
 
 <br>
