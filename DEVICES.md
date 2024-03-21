@@ -16,7 +16,7 @@
 
 #### Drive Layout:
 | Drive      | Drive Info       |
-| ---------- | ---------------- |
+| ---------: | :--------------: |
 | Drive 1  → | 1 TB NVMe        |
 | Drive 2  → | 1 TB SSD         |
 | Drive 3  → | 1 TB SSD         |
