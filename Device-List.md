@@ -24,6 +24,8 @@
 
 </details>
 
+<br>
+
 <details>
 <summary>"Helix" Server</summary>
 
@@ -46,6 +48,8 @@
 
 ¹Operating System is subject to change frequently.
 </details>
+
+<br>
 
 <details>
 
@@ -74,6 +78,8 @@
 ¹Operating System is subject to change frequently.
 </details>
 
+<br>
+
 <details>
 <summary>Game Consoles</summary>
 ## Gaming Consoles
@@ -86,6 +92,8 @@ Consoles:
         
 </details>
 
+<br>
+
 <details>
 <summary>Mobile Devices</summary>
 ## Mobile Devices
@@ -97,7 +105,9 @@ Devices:
 | Samsung Galaxy A10e → | 32 GB + 32 GB SD, Grey   |
         
 </details>
-<br></br>
+
+<br>
+
 <details>
 <summary>Additional Devices</summary>
 ## Additional Devices
