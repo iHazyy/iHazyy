@@ -43,7 +43,7 @@
   #### Development Programs:
   | Program                     | Usage/Information (if applicable) |
   | --------------------------: | :---------------------------------: |
-  | GitHub + [GitHub Desktop](https://desktop.github.com/)   → | ... GitHub?                         |
+  | [GitHub](https://github.com/) + [GitHub Desktop](https://desktop.github.com/)   → | ... GitHub?                         |
   | [Visual Studio Code](https://code.visualstudio.com/)        → | All Around Code Editor              |
   | [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)         → | JB Products Control Panel           |
   | [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/)   → | Mainly Java Development             |
