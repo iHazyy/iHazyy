@@ -7,14 +7,15 @@
   ### General Programs
   
   #### General Use Programs:
-  | Program              | Usage/Information (if applicable) |
-  | -----------------: | :---------------------------------: |
-  | Brave            → | Default Internet Browser            |
-  | Discord          → | Communications                      |
-  | Spotify          → | ---                                 |
-  | ---              → | ---                                 |
-  | ---              → | ---                                 |
-  | ---              → | ---                                 |
+  | Program                    | Usage/Information (if applicable) |
+  | -------------------------: | :-------------------------------: |
+  | Brave                    → | Default Internet Browser          |
+  | Discord                  → | Communications                    |
+  | Spotify                  → | Music & Media Player              |
+  | Private Internet Access  → | VPN & Safety                      |
+  | qBittorrent              → | Torrenting Software               |
+  | Lightshot                → | Screenshot + Upload Utility       |
+  | ---                      → | ---                               |
   
 </details>
 
@@ -27,14 +28,15 @@
   ### Tools & Development Programs
   
   #### Tools:
-  | Program              | Usage/Information (if applicable) |
-  | -----------------: | :---------------------------------: |
-  | Notepad++        → | Default Text Editor                 |
-  | 7zip             → | Archive Tool                        |
-  | CPU-Z            → | Computer Information & Stress Tool  |
-  | WinSCP           → | SFTP                                |
-  | WinDirStat       → | Disk Usage Analysis                 |
-  | KITTY            → | SSH (if not using Windows Terminal) |
+  | Program           | Usage/Information (if applicable)     |
+  | ----------------: | :-----------------------------------: |
+  | Notepad++       → | Default Text Editor                   |
+  | 7zip            → | Archive Tool                          |
+  | CPU-Z           → | Computer Information & Stress Tool    |
+  | WinSCP          → | SFTP                                  |
+  | WinDirStat      → | Disk Usage Analysis                   |
+  | KITTY           → | SSH (if not using Windows Terminal)   |
+  | ---             → | ---                                   |
 
 
   
@@ -51,7 +53,7 @@
   | JetBrains DataGrip        → | Data Tool                           |
   | JetBrains Code With Me    → | JB Collaboration Tool               |
   | Ventoy + Rufus            → | For Bootable Media                  |
-
+  | ---                       → | ---                                 |
 
 </details>
 
@@ -73,7 +75,8 @@
   | Battle.net               → | Game Launcher                          |
   | MultiMC                  → | Minecraft Launcher                     |
   | BakkesMod                → | Game Modification for Rocket League    |
-  
+  | ---                      → | ---                                    |
+
 </details>
 
 <br>
@@ -87,11 +90,8 @@
   #### Required Programs:
   | Program              | Usage/Information (if applicable) |
   | -----------------: | :---------------------------------: |
-  | Logitech G Hub   → | ---                                 |
-  | Grammarly        → | ---                                 |
-  | ---              → | ---                                 |
-  | ---              → | ---                                 |
-  | ---              → | ---                                 |
+  | Logitech G Hub   → | Software for mouse (G502 HERO)      |
+  | Grammarly        → | Fix Bad English                     |
   | ---              → | ---                                 |
   
 </details>
