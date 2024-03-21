@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This GitHub Repository is currently undergoing development.
+> I haven't finished this yet :P
 
 <br>
 # iHazyy (_hazyyy) | Kyyle
