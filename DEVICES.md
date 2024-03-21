@@ -1,6 +1,6 @@
 List of devices and other equipment I regularly use.
 
-1. "Griffin" PC Specs:
+"Griffin" PC Specs:
 
         Operating System → Windows 11 Pro
         Motherboard → ASROCK A620M-C
@@ -15,7 +15,7 @@ List of devices and other equipment I regularly use.
 
 
 
-2. "Helix" Server Specs:
+"Helix" Server Specs:
 
         Operating System → Debian 12.5 (Stable)
         Motherboard → Sabertooth 990FX (rev 1.0)
@@ -27,7 +27,7 @@ List of devices and other equipment I regularly use.
           Drive 2 → 4 TB NAS HDD (7200 RPM)
 
 
-3. "Griffin Mini" (Chromebook) Specs:
+"Griffin Mini" (Chromebook) Specs:
 
         Operating System → Arch Linuxⁱ
         Brand + Model → Acer R11 C738T (N15Q8)
@@ -40,21 +40,21 @@ List of devices and other equipment I regularly use.
                                     FULL-ROM flashed from MrChromebox.tech
 ⁱOS subject to frequent changes.
 
-4. Game Consoles:
+Game Consoles:
         Xbox Series X (1 TB)
         Xbox One S (1 TB)
 
-5. Mobile Devices:
+Mobile Devices:
         iPhone 14 Pro Max (128 GB, Purple)
         Samsung Galaxy A10e
 
-6. Synology DS220j:
+Synology DS220j:
         Operating System → DSM 7.1
         Drives:
       Drive 1 → 2 TB NAS HDD (7200 RPM)
 
-7. Cisco Catalyst 2960 (WS-CZ960-24TT-L)
+Cisco Catalyst 2960 (WS-CZ960-24TT-L)
         x2 1 Gbps Ethernet Ports
         x24 100 Mbps Ethernet Ports
 
-8. Canon PIXMA TS3522 Printer
+Canon PIXMA TS3522 Printer
