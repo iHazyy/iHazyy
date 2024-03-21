@@ -1,5 +1,5 @@
 <img align="left" width="120x" height="120px" src="/assets/white_icon.png">
-<font size="24">
+<font size="100">
 	<b>iHazyy's Devices & Tech Equipment</b>
 </font>
 
