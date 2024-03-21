@@ -1,6 +1,9 @@
 List of devices and other equipment I regularly use.
 
 "Griffin" PC Specs:
+
+| First Header  | Second Header |
+| ------------- | ------------- |
 | OS | Windows 11 Pro  |
 | Motherboard  | ASRock A620M-C  |
 
