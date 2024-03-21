@@ -5,5 +5,5 @@ Studying Computer Information Systems at Southern New Hampshire University.
 Software Engineer
 
 
-[Check out my devices.]
-[Check out my frequently used software.]
+[Check out my devices.](Device-List.md)
+[Check out my frequently used software.](Software.md)
