@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This GitHub Repository is currently undergoing development.
+
+<br>
 # iHazyy (_hazyyy) | Kyyle
 
 ## About me
