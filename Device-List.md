@@ -62,9 +62,9 @@
 | Component          | Installed                      |
 | -----------------: | :----------------------------: |
 | Operating System → | Arch Linux¹                    |
-| Brand + Model    → | Acer R11 C738T (N15Q8)         |
-| CPU              → | Intel Celeron N3060 @ 1.60 GHZ |
-| RAM              → | 4 GB (Unknown Speed & DDR)     |
+| Brand + Model    → | Acer R11 C738T (N15Q8, Cyan)   |
+| CPU              → | Intel Celeron N3060 @ 2.48 GHZ |
+| RAM              → | 4 GB DDR3 @ 1600 MHZ           |
 
 #### Drive Layout:
 | Drive      | Drive Info              |
@@ -74,7 +74,7 @@
 
 #### Additional Notes:
                 11.6-inch, 360 Hinge, Touchscreen
-                FULL-ROM flashed from MrChromebox.tech
+                MrChromebox-4.22.2-5 BIOS (Full ROM)
 
 ¹Operating System is subject to change frequently.
 
