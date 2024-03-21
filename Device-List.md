@@ -97,7 +97,7 @@ Devices:
 | Samsung Galaxy A10e → | 32 GB + 32 GB SD, Grey   |
         
 </details>
-
+<br></br>
 <details>
 <summary>Additional Devices</summary>
 ## Additional Devices
@@ -106,7 +106,7 @@ Devices:
 | Additional Device      | Additional Device Information            |
 | ---------------------: | :--------------------------------------: |
 | Synology DS220j      → | DSM 7.1, 2 TB NAS HDD (7200 RPM)         |
-| Cisco Catalyst 2960  → | x2 1 Gbps, x24 100 Mbps Ethernet Ports   |
+| Cisco Catalyst 2960  → | x2 1-Gbps, x24 100-Mbps Ethernet Ports   |
 | Canon PIXMA Printer  → | PIXMA TS3522, WiFi Enabled               |
 |  → |  |
 |  → |  |
