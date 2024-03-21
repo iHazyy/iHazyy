@@ -9,7 +9,7 @@
   #### General Use Programs:
   | Program                    | Usage/Information (if applicable) |
   | -------------------------: | :-------------------------------: |
-  | Brave                    → | Default Internet Browser          |
+  | [Brave](https://brave.com/)                    → | Default Internet Browser          |
   | Discord                  → | Communications                    |
   | Spotify                  → | Music & Media Player              |
   | Private Internet Access  → | VPN & Safety                      |
