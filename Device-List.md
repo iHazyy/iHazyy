@@ -17,6 +17,9 @@
 | Drive 3  → | 1 TB SSD               |
 | Drive 4  → | 1 TB SSD               |
 
+#### To Do:
+  - [ ] Upgrade RAM (4x 16 GB DDR5 @ 6000 MHz)
+  - [ ] Upgrade NVMe to 2 TB
 
 <br>
 
@@ -37,6 +40,9 @@
 | Drive 1  → | 240 GB SSD              |
 | Drive 2  → | 4 TB NAS HDD (7200 RPM) |
 
+#### To Do:
+  - [ ] Upgrade Drive 1 to 1 TB SSD
+
 ¹Operating System is subject to change frequently.
 
 <br>
@@ -55,11 +61,15 @@
 | Drive      | Drive Info              |
 | ---------: | :---------------------: |
 | Drive 1  → | 32 GB NVMe              |
-| Drive 2  → | 64 GB SSD               |
+| Drive 2  → | 64 GB SD                |
 
 #### Additional Notes:
   11.6-inch, 360 Hinge, Touchscreen
   MrChromebox-4.22.2-5 BIOS (Full ROM)
+
+#### To Do:
+  - [ ] Upgrade NVMe (240/512 GB or 1 TB)
+  - [ ] Upgrade SD (128/256/512 GB)
 
 ¹Operating System is subject to change frequently.
 
@@ -73,6 +83,10 @@
 | Xbox Series X → | 1 TB Edition  |
 | Xbox One S →    | 1 TB Edition  |
 | ---           → | ---           |
+
+#### To Do:
+  - [ ] Upgrade Xbox Series X (Expansion Card)
+  - [ ] Upgrade Xbox One S (1-2 TB USB 3 Drive)
         
 <br>
 
@@ -96,5 +110,7 @@
 | Cisco Catalyst 2960  → | x2 1-Gbps, x24 100-Mbps Ethernet Ports   |
 | Canon PIXMA Printer  → | PIXMA TS3522, WiFi Enabled               |
 | ---                  → | ---                                      |
-        
+
+#### To Do:
+  - [ ] Upgrade Synology DS220j (2 8 TB NAS HDDs @ 7200 RPM)
 
