@@ -1,6 +1,5 @@
 # Commonly used Software
 
-<details>
   
   <summary>General Programs</summary>
   
@@ -17,11 +16,11 @@
   | [Lightshot](https://app.prntscr.com/)                → | Screenshot + Upload Utility       |
   | ---                      → | ---                               |
   
-</details>
+
 
 <br>
 
-<details>
+
   
   <summary>Tools, Development</summary>
   
@@ -55,11 +54,11 @@
   | [Ventoy](https://www.ventoy.net/en/index.html) + [Rufus](https://rufus.ie/en/)            → | For Bootable Media                  |
   | ---                       → | ---                                 |
 
-</details>
+
 
 <br>
 
-<details>
+
   
   <summary>Gaming Related</summary>
   
@@ -77,11 +76,11 @@
   | [BakkesMod](https://bakkesplugins.com/)                → | Game Modification for Rocket League    |
   | ---                      → | ---                                    |
 
-</details>
+
 
 <br>
 
-<details>
+
   
   <summary>Required Programs (for me)</summary>
   
@@ -94,7 +93,7 @@
   | [Grammarly](https://grammarly.com/)        → | Fix Bad English                     |
   | ---              → | ---                                 |
   
-</details>
+
 
 <br>
 
