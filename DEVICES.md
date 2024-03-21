@@ -1,6 +1,7 @@
 # List of devices and other equipment I regularly use.
 
 "Griffin" Gaming PC Specs:
+
         Operating System → Windows 11 Pro
         Motherboard → ASROCK A620M-C
         CPU → AMD Ryzen 5 7600 @ 5.1 GHz
