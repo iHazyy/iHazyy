@@ -1,7 +1,7 @@
 <img align="left" width="120x" height="120px" src="/assets/white_icon.png">
 
 
-# iHazyy's frequently used software
+### iHazyy's frequently used software
 
 <br>
 <br>
