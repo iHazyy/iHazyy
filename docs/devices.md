@@ -1,8 +1,3 @@
-
-<img align="left" width="120x" height="120px" src="/assets/white_icon.png">
-
-
-
 # iHazyy's Devices & Tech Equipment
 
 
@@ -151,3 +146,7 @@ MrChromebox-4.22.2-5 BIOS (Full ROM)
 
 > [!NOTE]
 > Synology DS220j is only used only for a local Plex Media Server.
+
+
+
+<img align="left" width="120x" height="120px" src="/assets/white_icon.png">
