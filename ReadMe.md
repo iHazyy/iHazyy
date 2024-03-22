@@ -8,7 +8,6 @@
 
 # About me
 
-<br>
 
 ### **Where am I from?** 
 I am located in New York, United States.
@@ -32,8 +31,6 @@ Also, check out [my frequently used software](/docs/freq-software.md) to see wha
 <br>
 <br>
 
-> [!NOTE]
-> Devneta LLC <img align="right" width="214" height="214" src="/assets/white_icon.png">
 #### Employed by
 <img align="left" src="assets/whitebanner.png">
 
