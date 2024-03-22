@@ -11,13 +11,11 @@
 <br>
 
 ### **Where am I from?** 
-<br />
 I am located in New York, United States.
 
 ---
 
 ### **What do I do?**
-<br />
 I am primarily a student studying _Computer Information Systems_ at _Southern New Hampshire University_. <br />
 
 In addition to my studies, I am also the Chief Executive Officer of [Devneta LLC](https://github.com/DevnetaLLC), <br />
