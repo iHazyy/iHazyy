@@ -2,7 +2,7 @@
 
 <br>
 
-#### Common:
+### Common:
 |                               Box 1                                |        Box 2        |
 |:------------------------------------------------------------------:|:-------------------:|
 |                    [Brave](https://brave.com/)                     |  Internet Browser   |
@@ -18,49 +18,61 @@
 |               [WinDirStat](https://windirstat.net/)                |   Disk Monitoring   |
 |           [Kitty](https://www.9bis.net/kitty/index.html)           |    SSH Terminal     |
 
+<br>
 ---
 
-#### Development/Work:
-|              Box 1               |             Box 2              |
-|:--------------------------------:|:------------------------------:|
-|          Adobe Acrobat           |              PDF               |
-|        Adobe Dreamweaver         |        Web Development         |
-|          Adobe InDesign          |              ---               |
-|         Adobe Photoshop          |           Image work           |
-|        Adobe Premiere Pro        |         Video Editing          |
-|          GitHub Desktop          |           GitHub :)            |
-|        JetBrains WebStorm        |        Web Development         |
-|       JetBrains Writerside       | Markdown & Writing Development |
-|  JetBrains PyCharm Professional  |       Python Development       |
-| JetBrains IntelliJ IDEA Ultimate |     JavaScript Development     |
-|        JetBrains RubyMine        |        Ruby Development        |
-|        JetBrains DataGrip        |           Data Tool            |
-|       JetBrains DataSpell        |           Data Tool            |
-|       JetBrains RustRover        |        Rust Development        |
-|         JetBrains GoLand         |         GO Development         |
-|        JetBrains PhpStorm        |        php Development         |
-|        Visual Studio Code        |     Multi-Use Development      |
-|                                  |              ---               |
-|                                  |              ---               |
-|                                  |              ---               |
-|                                  |              ---               |
-|                                  |              ---               |
-|                                  |              ---               |
+### Development/Work:
+|                                 Box 1                                 |             Box 2              |
+|:---------------------------------------------------------------------:|:------------------------------:|
+|       [Adobe Acrobat](https://www.adobe.com/creativecloud.html)       |              PDF               |
+|     [Adobe Dreamweaver](https://www.adobe.com/creativecloud.html)     |        Web Development         |
+|      [Adobe InDesign](https://www.adobe.com/creativecloud.html)       |              ---               |
+|      [Adobe Photoshop](https://www.adobe.com/creativecloud.html)      |           Image work           |
+|    [Adobe Premiere Pro](https://www.adobe.com/creativecloud.html)     |         Video Editing          |
+|             [GitHub Desktop](https://desktop.github.com/)             |           GitHub :)            |
+|       [JetBrains WebStorm](https://www.jetbrains.com/webstorm/)       |        Web Development         |
+|     [JetBrains Writerside](https://www.jetbrains.com/writerside/)     | Markdown & Writing Development |
+| [JetBrains PyCharm Professional](https://www.jetbrains.com/pycharm/)  |       Python Development       |
+|  [JetBrains IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/)  |     JavaScript Development     |
+|         [JetBrains RubyMine](https://www.jetbrains.com/ruby/)         |        Ruby Development        |
+|       [JetBrains DataGrip](https://www.jetbrains.com/datagrip/)       |           Data Tool            |
+|      [JetBrains DataSpell](https://www.jetbrains.com/dataspell/)      |           Data Tool            |
+|        [JetBrains RustRover](https://www.jetbrains.com/rust/)         |        Rust Development        |
+|           [JetBrains GoLand](https://www.jetbrains.com/go/)           |         GO Development         |
+|       [JetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)       |        php Development         |
+|         [Visual Studio Code](https://code.visualstudio.com/)          |     Multi-Use Development      |
+|            [Ventoy](https://www.ventoy.net/en/index.html)             |              ---               |
+|                     [Rufus](https://rufus.ie/en/)                     |              ---               |
 
+<br>
 ---
 
-#### Common:
-| Box 1 | Box 2                  |
-|:-----:| :--------------------: |
-|  ---  | ---                    |
-|  ---  | ---                    |
-|  ---  | ---                    |
-|  ---  | ---                    |
-|  ---  | ---                    |
-|  ---  | ---                    |
+### Gaming:
+|                       Box 1                       |           Box 2           |
+|:-------------------------------------------------:|:-------------------------:|
+|     [Steam](https://store.steampowered.com/)      |      Steam Launcher       |
+| [Epic Games](https://store.epicgames.com/en-US/)  |    Epic Games Launcher    |
+|     [Ubisoft](https://www.ubisoft.com/en-us/)     |     Ubisoft Launcher      |
+|    [Rockstar](https://www.rockstargames.com/)     |  Rockstar Games Launcher  |
+|     [Battle.NET](https://us.shop.battle.net/)     |    Battle.NET Launcher    |
+|          [MultiMC](https://multimc.org/)          |         Minecraft         |
+|      [BakkesMod](https://bakkesplugins.com/)      |     Rocket League Mod     |
 
+<br>
 ---
 
+### Extra:
+|                                  Box 1                                  | Box 2                  |
+|:-----------------------------------------------------------------------:| :--------------------: |
+| [Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) | ---                    |
+|                   [Grammarly](https://grammarly.com/)                   | ---                    |
+|                                   ---                                   | ---                    |
+|                                   ---                                   | ---                    |
+|                                   ---                                   | ---                    |
+|                                   ---                                   | ---                    |
+
+<br>
+---
 
 
 
