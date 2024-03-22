@@ -5,28 +5,28 @@
 # iHazyy (_hazyyy) | Kyyle
 
 # About me
-|           Question           |                                   Answer                                    |
-|:----------------------------:|:---------------------------------------------------------------------------:|
-|     **Where am I from?**     |                           New York, United States                           |
-|     **Where do I work?**     |                  Chief Executive Officer at [@Devneta-LLC]                  |
-|      **What do I do?**       |      Primarily a Student, and CEO of [](https://github.com/DevnetaLLC)      |
-|             ---              |                                     ---                                     |
-| **Where do I go to school?** |                      Southern New Hampshire University                      |
-|     **What do I study?**     |                 Computer Information Systems & Data Science                 |
 
-#### **Where am I from?** <br />
+#### **Where am I from?** 
+<br />
+I am located in New York, United States.
 
+<br>
 
+#### **What do I do?**
+<br />
+I am primarily a student studying _Computer Information Systems_ at _Southern New Hampshire University_. <br />
 
+In addition to my studies, I am also the Chief Executive Officer of [Devneta LLC](https://github.com/DevnetaLLC), <br />
+a company dedicated to the advancement of technology and cutting edge services. <br />
 
-
-
+<br>
 
 ### Wonder what hardware and software I use?
 Check out [my devices]() to see what devices I have in use. <br>
 Also, check out [my frequently used software]() to see what software I regularly use. <br>
 
-
+<br>
 
 #### Employed by
-<img src="assets/whitebanner.png">
+<img align="left" src="assets/whitebanner.png">
+<img align="right" width="214" height="214" src="/assets/white_icon.png">
