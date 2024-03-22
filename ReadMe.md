@@ -32,5 +32,7 @@ Also, check out [my frequently used software](/docs/freq-software.md) to see wha
 <br>
 
 #### Employed by
-<img align="left" src="assets/whitebanner.png">
+<img align="left" height="80" src="assets/whitebanner.png">
+<img align="center" height="90" src="assets/white_icon.png">
+
 
