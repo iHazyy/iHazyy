@@ -33,6 +33,10 @@ Also, check out [my frequently used software](/docs/freq-software.md) to see wha
 
 #### Employed by
 <img align="left" height="80" src="assets/whitebanner.png">
-<img align="center" height="90" src="assets/white_icon.png">
+<img align="center" height="90" src="assets/white_icon.png"> <br />
+
+> [!NOTE]
+> For more information on Devneta, check out their [GitHub](https://github.com/DevnetaLLC) and [website](https://www.devneta.org).
+
 
 
