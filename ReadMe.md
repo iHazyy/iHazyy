@@ -1,18 +1,18 @@
 > [!CAUTION]
 > I haven't finished this yet :P
+> [!IMPORTANT]
+> This ReadMe tends to update a lot...
+
 
 <br>
-# iHazyy (_hazyyy) | Kyyle
-
 # About me
+<br>
 
 ### **Where am I from?** 
 <br />
 I am located in New York, United States.
 
 ---
-
-<br>
 
 ### **What do I do?**
 <br />
@@ -23,15 +23,17 @@ a company dedicated to the advancement of technology and cutting edge services. 
 
 ---
 
-<br>
-
 #### Wonder what hardware and software I use?
-Check out [my devices]() to see what devices I have in use. <br>
-Also, check out [my frequently used software]() to see what software I regularly use. <br>
+Check out [my devices](/docs/devices.md) to see what devices I have in use. <br />
+Also, check out [my frequently used software](/docs/freq-software.md) to see what software I regularly use. <br />
+
 
 
 <br>
+<br>
 
+> [!NOTE]
+> Devneta LLC
 #### Employed by
 <img align="left" src="assets/whitebanner.png">
 <img align="right" width="214" height="214" src="/assets/white_icon.png">
