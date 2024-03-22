@@ -6,13 +6,13 @@
 
 # About me
 
-#### **Where am I from?** 
+## **Where am I from?** 
 <br />
 I am located in New York, United States.
 
 <br>
 
-#### **What do I do?**
+## **What do I do?**
 <br />
 I am primarily a student studying _Computer Information Systems_ at _Southern New Hampshire University_. <br />
 
