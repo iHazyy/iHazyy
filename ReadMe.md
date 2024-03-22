@@ -33,7 +33,7 @@ Also, check out [my frequently used software](/docs/freq-software.md) to see wha
 <br>
 
 > [!NOTE]
-> Devneta LLC
+> Devneta LLC <img align="right" width="214" height="214" src="/assets/white_icon.png">
 #### Employed by
 <img align="left" src="assets/whitebanner.png">
-<img align="right" width="214" height="214" src="/assets/white_icon.png">
+
