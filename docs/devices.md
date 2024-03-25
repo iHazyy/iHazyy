@@ -1,28 +1,22 @@
 # iHazyy's Devices & Tech Equipment
 
 
-
-<br>
-<br>
-<br>
-<br>
-
 ## Gaming PC ("Griffin") → 
 
 #### Specifications:
-|     Component Type |    Component Installed     |
-|-------------------:|:--------------------------:|
-| Operating System → |       Windows 11 Pro       |
-|      Motherboard → |       ASRock A620M-C       |
-|              CPU → | AMD Ryzen 5 7600 @ 5.1 GHz |
-|              GPU → |     AMD RX 7600 (8 GB)     |
-|              RAM → |   16 GB DDR5 @ 6000 MHz    |
+|     Component Type |         Component Installed          |
+|-------------------:|:------------------------------------:|
+| Operating System → | Windows 11 Pro, Debian 12.5 (Stable) |
+|      Motherboard → |            ASRock A620M-C            |
+|              CPU → |      AMD Ryzen 5 7600 @ 5.1 GHz      |
+|              GPU → |          AMD RX 7600 (8 GB)          |
+|              RAM → |        16 GB DDR5 @ 6000 MHz         |
 
 #### Drive Layout
-|    Drive # | Drive Information |     Usage     |
-|-----------:|:-----------------:|:-------------:|
-|  Drive #1 → |     1 TB NVMe     |    Windows    |
-|  Drive #2 → |   1 TB SATA SSD   | Will be Linux | 
+|   Drive #    | Drive Information |        Usage         |
+|:------------:|:-----------------:|:--------------------:|
+|  Drive #1 →  |     1 TB NVMe     |       Windows        |
+|  Drive #2 →  |   1 TB SATA SSD   | Debian 12.5 (Stable) | 
 <br>
 
 #### To Do:
@@ -45,12 +39,12 @@
 |              RAM → |   32 GB DDR3 @ 1600 MHz    |
 
 #### Drive Layout
-|   Drive # |    Drive Information    |     Usage      |
-|----------:|:-----------------------:|:--------------:|
-| Drive 1 → |     240 GB SATA SSD     | OS (Rocky 9.3) |
-| Drive 2 → |        1 TB SSD         |     Empty      |
-| Drive 3 → |        1 TB SSD         |     Empty      |
-| Drive 4 → | 4 TB NAS HDD @ 7200 RPM |     Empty      |
+|    Drive # |    Drive Information    |     Usage      |
+|-----------:|:-----------------------:|:--------------:|
+| Drive #1 → |     240 GB SATA SSD     | OS (Rocky 9.3) |
+| Drive #2 → |        1 TB SSD         |     Empty      |
+| Drive #3 → |        1 TB SSD         |     Empty      |
+| Drive #4 → | 4 TB NAS HDD @ 7200 RPM |     Empty      |
 <br>
 
 #### To Do:
@@ -66,7 +60,7 @@
 #### Specifications:
 |     Component Type |      Component Installed       |
 |-------------------:|:------------------------------:|
-| Operating System → |     XUbuntu, Debian Trixie     |
+| Operating System → |            XUbuntu             |
 |    Brand + Model → |  Acer R11 C738T (N15Q8, Cyan)  |
 |              CPU → | Intel Celeron N3060 @ 2.40 GHz |
 |              RAM → |      4 GB DDR3 @ 1600 MHz      |
@@ -74,8 +68,8 @@
 #### Drive Layout
 |    Drive # | Drive Information |     Usage     |
 |-----------:|:-----------------:|:-------------:|
-|  Drive 1 → |    32 GB NVMe     |    XUbuntu    |
-|  Drive 2 → |   64 GB SD-CARD   | --- |
+| Drive #1 → |    32 GB NVMe     |    XUbuntu    |
+| Drive #2 → |   64 GB SD-CARD   | --- |
 #### Additional Notes: <br />
 11.6-inch; 360 Hinge, Touchscreen <br />
 MrChromebox-4.22.2-5 BIOS (Full ROM)
