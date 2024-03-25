@@ -19,12 +19,10 @@
 |              RAM → |   16 GB DDR5 @ 6000 MHz    |
 
 #### Drive Layout
-|    Drive # | Drive Information |
-|-----------:|:-----------------:|
-|  Drive 1 → |     1 TB NVMe     |
-|  Drive 2 → |   1 TB SATA SSD   |
-|  Drive 3 → |   1 TB SATA SSD   |
-|  Drive 4 → |   1 TB SATA SSD   |
+|    Drive # | Drive Information |     Usage     |
+|-----------:|:-----------------:|:-------------:|
+|  Drive 1 → |     1 TB NVMe     |    Windows    |
+|  Drive 2 → |   1 TB SATA SSD   | Will be Linux | 
 <br>
 
 #### To Do:
@@ -40,21 +38,23 @@
 #### Specifications:
 |     Component Type |    Component Installed     |
 |-------------------:|:--------------------------:|
-| Operating System → |    Debian 12.5 (Stable)    |
+| Operating System → |         Rocky 9.3          |
 |      Motherboard → | Sabertooth 990FX (rev 1.0) |
 |              CPU → |   AMD FX-4350 @ 4.60 GHz   |
 |              GPU → |     AMD RX 580 (4 GB)      |
 |              RAM → |   32 GB DDR3 @ 1600 MHz    |
 
 #### Drive Layout
-|    Drive # |    Drive Information    |
-|-----------:|:-----------------------:|
-|  Drive 1 → |     240 GB SATA SSD     |
-|  Drive 2 → | 4 TB NAS HDD @ 7200 RPM |
+|   Drive # |    Drive Information    |     Usage      |
+|----------:|:-----------------------:|:--------------:|
+| Drive 1 → |     240 GB SATA SSD     | OS (Rocky 9.3) |
+| Drive 2 → |        1 TB SSD         |     Empty      |
+| Drive 3 → |        1 TB SSD         |     Empty      |
+| Drive 4 → | 4 TB NAS HDD @ 7200 RPM |     Empty      |
 <br>
 
 #### To Do:
- - [ ] Upgrade Drive 1 to a 1-2 TB SATA SSD
+ - [ ] Upgrade Drive 1 to a 1 TB SATA SSD
 
 > [!IMPORTANT]
 > "Helix" is in early development.
@@ -69,16 +69,16 @@
 #### Specifications:
 |     Component Type |      Component Installed       |
 |-------------------:|:------------------------------:|
-| Operating System → |      Debian 12.5 (Stable)      |
+| Operating System → |     XUbuntu, Debian Trixie     |
 |    Brand + Model → |  Acer R11 C738T (N15Q8, Cyan)  |
 |              CPU → | Intel Celeron N3060 @ 2.40 GHz |
 |              RAM → |      4 GB DDR3 @ 1600 MHz      |
 
 #### Drive Layout
-|    Drive # | Drive Information |
-|-----------:|:-----------------:|
-|  Drive 1 → |    32 GB NVMe     |
-|  Drive 2 → |   64 GB SD-CARD   |
+|    Drive # | Drive Information |     Usage     |
+|-----------:|:-----------------:|:-------------:|
+|  Drive 1 → |    32 GB NVMe     |    XUbuntu    |
+|  Drive 2 → |   64 GB SD-CARD   | Debian Trixie |
 #### Additional Notes: <br />
 11.6-inch; 360 Hinge, Touchscreen <br />
 MrChromebox-4.22.2-5 BIOS (Full ROM)
