@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## "Griffin" Gaming PC → 
+## Gaming PC ("Griffin") → 
 
 #### Specifications:
 |     Component Type |    Component Installed     |
@@ -21,19 +21,19 @@
 #### Drive Layout
 |    Drive # | Drive Information |     Usage     |
 |-----------:|:-----------------:|:-------------:|
-|  Drive 1 → |     1 TB NVMe     |    Windows    |
-|  Drive 2 → |   1 TB SATA SSD   | Will be Linux | 
+|  Drive #1 → |     1 TB NVMe     |    Windows    |
+|  Drive #2 → |   1 TB SATA SSD   | Will be Linux | 
 <br>
 
 #### To Do:
+ - [ ] Install Linux Distro to Drive #2
  - [ ] RAM Upgrade - 4x 16 GB DDR5 @ 6000 MHz
- - [ ] Upgrade Drive 1 to a 2 TB NVMe
- - [ ] Upgrade Drive 2 & 3 to 2 TB SATA SSDs
- - [ ] Swap Drive 4 for a 4 TB HDD @ 7200 RPM
+ - [ ] Upgrade Drive #1 to a 2 TB NVMe
+ - [ ] Upgrade Drive #2 to 2 TB SATA SSDs
 
 ---
 
-## "Helix" Server PC →
+## Server PC ("Helix") →
 
 #### Specifications:
 |     Component Type |    Component Installed     |
@@ -54,17 +54,14 @@
 <br>
 
 #### To Do:
- - [ ] Upgrade Drive 1 to a 1 TB SATA SSD
+ - [ ] Upgrade Drive #1 to a 1 TB SATA SSD
 
 > [!IMPORTANT]
-> "Helix" is in early development.
-
-> [!NOTE]
-> "Helix" changes operating systems frequently.
+> "Helix" is operated by [Devneta LLC](https://github.com/DevnetaLLC)
 
 ---
 
-## "Griffin Mini" Chromebook →
+## Acer Chromebook ("Willow") →
 
 #### Specifications:
 |     Component Type |      Component Installed       |
@@ -77,8 +74,8 @@
 #### Drive Layout
 |    Drive # | Drive Information |     Usage     |
 |-----------:|:-----------------:|:-------------:|
-|  Drive 1 → |    32 GB NVMe     |    XUbuntu    |
-|  Drive 2 → |   64 GB SD-CARD   | Debian Trixie |
+|  Drive 1 → |    32 GB NVMe     |    ---    |
+|  Drive 2 → |   64 GB SD-CARD   | XUbuntu |
 #### Additional Notes: <br />
 11.6-inch; 360 Hinge, Touchscreen <br />
 MrChromebox-4.22.2-5 BIOS (Full ROM)
