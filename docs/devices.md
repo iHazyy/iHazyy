@@ -74,8 +74,8 @@
 #### Drive Layout
 |    Drive # | Drive Information |     Usage     |
 |-----------:|:-----------------:|:-------------:|
-|  Drive 1 → |    32 GB NVMe     |    ---    |
-|  Drive 2 → |   64 GB SD-CARD   | XUbuntu |
+|  Drive 1 → |    32 GB NVMe     |    XUbuntu    |
+|  Drive 2 → |   64 GB SD-CARD   | --- |
 #### Additional Notes: <br />
 11.6-inch; 360 Hinge, Touchscreen <br />
 MrChromebox-4.22.2-5 BIOS (Full ROM)
