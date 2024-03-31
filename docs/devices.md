@@ -1,7 +1,7 @@
 # iHazyy's Devices & Tech Equipment
 
 
-## Gaming PC ("Griffin") → 
+## Gaming PC ("Griffin/Willow") → 
 
 #### Specifications:
 |     Component Type |         Component Installed          |
@@ -55,7 +55,7 @@
 
 ---
 
-## Acer Chromebook ("Willow") →
+## Acer Chromebook ("Helix-Mini") →
 
 #### Specifications:
 |     Component Type |      Component Installed       |
