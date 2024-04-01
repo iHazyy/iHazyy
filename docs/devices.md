@@ -6,7 +6,7 @@
 #### Specifications:
 |     Component Type |         Component Installed          |
 |-------------------:|:------------------------------------:|
-| Operating System → | Windows 11 Pro, Debian 12.5 (Stable) |
+| Operating System → | Windows 11 Pro                       |
 |      Motherboard → |            ASRock A620M-C            |
 |              CPU → |      AMD Ryzen 5 7600 @ 5.1 GHz      |
 |              GPU → |          AMD RX 7600 (8 GB)          |
@@ -16,7 +16,10 @@
 |   Drive #    | Drive Information |        Usage         |
 |:------------:|:-----------------:|:--------------------:|
 |  Drive #1 →  |     1 TB NVMe     |       Windows        |
-|  Drive #2 →  |   1 TB SATA SSD   | Debian 12.5 (Stable) | 
+|  Drive #2 →  |     1 TB SSD      |       Storage        |
+|  Drive #3 →  |     1 TB SSD      |       Storage        |
+
+
 <br>
 
 #### To Do:
@@ -32,7 +35,7 @@
 #### Specifications:
 |     Component Type |    Component Installed     |
 |-------------------:|:--------------------------:|
-| Operating System → |         Rocky 9.3          |
+| Operating System → | Windows 10 Pro, Debian     |
 |      Motherboard → | Sabertooth 990FX (rev 1.0) |
 |              CPU → |   AMD FX-4350 @ 4.60 GHz   |
 |              GPU → |     AMD RX 580 (4 GB)      |
@@ -41,10 +44,9 @@
 #### Drive Layout
 |    Drive # |    Drive Information    |     Usage      |
 |-----------:|:-----------------------:|:--------------:|
-| Drive #1 → |     240 GB SATA SSD     | OS (Rocky 9.3) |
-| Drive #2 → |        1 TB SSD         |     Empty      |
-| Drive #3 → |        1 TB SSD         |     Empty      |
-| Drive #4 → | 4 TB NAS HDD @ 7200 RPM |     Empty      |
+| Drive #1 → |     240 GB SATA SSD     |     Debain     |
+| Drive #2 → |        1 TB SSD         | Windows 10 Pro |
+| Drive #4 → | 4 TB NAS HDD @ 7200 RPM |     Storage    |
 <br>
 
 #### To Do:
@@ -60,7 +62,7 @@
 #### Specifications:
 |     Component Type |      Component Installed       |
 |-------------------:|:------------------------------:|
-| Operating System → |            XUbuntu             |
+| Operating System → |            Debian              |
 |    Brand + Model → |  Acer R11 C738T (N15Q8, Cyan)  |
 |              CPU → | Intel Celeron N3060 @ 2.40 GHz |
 |              RAM → |      4 GB DDR3 @ 1600 MHz      |
@@ -68,7 +70,7 @@
 #### Drive Layout
 |    Drive # | Drive Information |     Usage     |
 |-----------:|:-----------------:|:-------------:|
-| Drive #1 → |    32 GB NVMe     |    XUbuntu    |
+| Drive #1 → |    32 GB NVMe     |    Debian    |
 | Drive #2 → |   64 GB SD-CARD   | --- |
 #### Additional Notes: <br />
 11.6-inch; 360 Hinge, Touchscreen <br />
