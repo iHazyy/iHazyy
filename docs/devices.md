@@ -44,7 +44,7 @@
 #### Drive Layout
 |    Drive # |    Drive Information    |     Usage      |
 |-----------:|:-----------------------:|:--------------:|
-| Drive #1 → |     240 GB SATA SSD     |     Debain     |
+| Drive #1 → |     240 GB SATA SSD     |     Debian     |
 | Drive #2 → |        1 TB SSD         | Windows 10 Pro |
 | Drive #4 → | 4 TB NAS HDD @ 7200 RPM |     Storage    |
 <br>
