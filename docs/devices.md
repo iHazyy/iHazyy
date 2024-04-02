@@ -1,23 +1,23 @@
 # iHazyy's Devices & Tech Equipment
 
 
-## Gaming PC ("Griffin/Willow") → 
+## Gaming PC ("Griffin") → 
 
 #### Specifications:
-|     Component Type |         Component Installed          |
-|-------------------:|:------------------------------------:|
-| Operating System → | Windows 11 Pro                       |
-|      Motherboard → |            ASRock A620M-C            |
-|              CPU → |      AMD Ryzen 5 7600 @ 5.1 GHz      |
-|              GPU → |          AMD RX 7600 (8 GB)          |
-|              RAM → |        16 GB DDR5 @ 6000 MHz         |
+|     Component Type |    Component Installed     |
+|-------------------:|:--------------------------:|
+| Operating System → |       Windows 11 Pro       |
+|      Motherboard → |       ASRock A620M-C       |
+|              CPU → | AMD Ryzen 5 7600 @ 5.1 GHz |
+|              GPU → |     AMD RX 7600 (8 GB)     |
+|              RAM → |   16 GB DDR5 @ 6000 MHz    |
 
 #### Drive Layout
-|   Drive #    | Drive Information |        Usage         |
-|:------------:|:-----------------:|:--------------------:|
-|  Drive #1 →  |     1 TB NVMe     |       Windows        |
-|  Drive #2 →  |     1 TB SSD      |       Storage        |
-|  Drive #3 →  |     1 TB SSD      |       Storage        |
+|   Drive #    | Drive Information |      Usage       |
+|:------------:|:-----------------:|:----------------:|
+|  Drive #1 →  |     1 TB NVMe     | Operating System |
+|  Drive #2 →  |     1 TB SSD      |     Storage      |
+|  Drive #3 →  |     1 TB SSD      |     Storage      |
 
 
 <br>
@@ -35,18 +35,20 @@
 #### Specifications:
 |     Component Type |    Component Installed     |
 |-------------------:|:--------------------------:|
-| Operating System → | Windows 10 Pro, Debian     |
+| Operating System → |    Debian 12.5 (Stable)    |
 |      Motherboard → | Sabertooth 990FX (rev 1.0) |
 |              CPU → |   AMD FX-4350 @ 4.60 GHz   |
 |              GPU → |     AMD RX 580 (4 GB)      |
 |              RAM → |   32 GB DDR3 @ 1600 MHz    |
 
 #### Drive Layout
-|    Drive # |    Drive Information    |     Usage      |
-|-----------:|:-----------------------:|:--------------:|
-| Drive #1 → |     240 GB SATA SSD     |     Debian     |
-| Drive #2 → |        1 TB SSD         | Windows 10 Pro |
-| Drive #4 → | 4 TB NAS HDD @ 7200 RPM |     Storage    |
+|    Drive # |    Drive Information    |      Usage       |
+|-----------:|:-----------------------:|:----------------:|
+| Drive #1 → |        1 TB SSD         | Operating System |
+| Drive #2 → | 4 TB NAS HDD @ 7200 RPM |     Storage      |
+| Drive #3 → | 2 TB NAS HDD @ 7200 RPM |     Storage      |
+
+
 <br>
 
 #### To Do:
@@ -62,16 +64,16 @@
 #### Specifications:
 |     Component Type |      Component Installed       |
 |-------------------:|:------------------------------:|
-| Operating System → |            Debian              |
+| Operating System → |             Debian             |
 |    Brand + Model → |  Acer R11 C738T (N15Q8, Cyan)  |
 |              CPU → | Intel Celeron N3060 @ 2.40 GHz |
 |              RAM → |      4 GB DDR3 @ 1600 MHz      |
 
 #### Drive Layout
-|    Drive # | Drive Information |     Usage     |
-|-----------:|:-----------------:|:-------------:|
-| Drive #1 → |    32 GB NVMe     |    Debian    |
-| Drive #2 → |   64 GB SD-CARD   | --- |
+|    Drive # | Drive Information |      Usage       |
+|-----------:|:-----------------:|:----------------:|
+| Drive #1 → |    32 GB NVMe     | Operating System |
+| Drive #2 → |   64 GB SD-CARD   |     Storage      |
 #### Additional Notes: <br />
 11.6-inch; 360 Hinge, Touchscreen <br />
 MrChromebox-4.22.2-5 BIOS (Full ROM)
@@ -129,7 +131,7 @@ MrChromebox-4.22.2-5 BIOS (Full ROM)
 #### Devices:
 |                Device |     Additional Device Information      |
 |----------------------:|:--------------------------------------:|
-|     Synology DS220j → |    DSM 7.1; 2 TB NAS HDD @ 7200 RPM    |
+|     Synology DS220j → |    DSM 7.1; 1 TB NAS HDD @ 7200 RPM    |
 | Cisco Catalyst 2960 → | x2 1-Gbps, x24 100-Mbps Ethernet Ports |
 | Canon PIXMA Printer → |       PIXMA TS3522, WiFi Enabled       |
 <br />
